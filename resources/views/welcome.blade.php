@@ -18,6 +18,12 @@
     <body class="antialiased">
      <div>
          <h1>Hi THere</h1>
+         <a href="{{route('bappy')}}">Click HEre</a>
+
+
+         <a href="{{route('Product')}}">Buy a Product</a>
+
+
      </div>
 
     </body>
